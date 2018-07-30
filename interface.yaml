@@ -1,0 +1,5 @@
+name: munge-auth
+summary: Munge authentication exchange layer
+maintainer:
+  - Dmitrii Shcherbakov <dmitrii.shcherbakov@canonical.com>
+version: 1
